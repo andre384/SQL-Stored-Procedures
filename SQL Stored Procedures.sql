@@ -1,7 +1,7 @@
 
 
 -- Examples of Stored Procedures using SQL server
--- SQL queries practiced from the Coursera Guided Project "Routines in SQL: Stored Procedures in SQL Server"
+-- SQL queries practiced on the Coursera Guided Project "Routines in SQL: Stored Procedures in SQL Server"
 -- https://www.coursera.org/learn/routines-in-sql-stored-procedures-in-sql-server/home/module/1
 -- Database and tables are created before using these SQL statements
 
