@@ -29,7 +29,7 @@ Sales DECIMAL(10,5), Quantity INT, Discount DECIMAL(4,2), Profit DECIMAL(10,5)
 ## SQL Store Procedures:
 
 
-### Procedure: emp_full_details
+### emp_full_details
 ```sql
 Create Procedure emp_full_details
 @employee_id INT
@@ -45,7 +45,7 @@ Exec emp_full_details @employee_id=100;
 ```
 
 
-### Procedure: cust_avg_sales
+### cust_avg_sales
 
 ```sql
 Create Procedure cust_avg_sales
@@ -65,7 +65,7 @@ Select @out_avg_sales As AvgCustomerSales
 ```
 
 
-### Procedure: cust_salescat_rank
+### cust_salescat_rank
 ```sql
 Create Procedure cust_salescat_rank
 @Year Int, @Category varchar(20)
